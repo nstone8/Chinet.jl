@@ -2,3 +2,7 @@ name = "Chinet"
 uuid = "032a2897-498d-4ece-9283-114705a306b4"
 authors = ["Nicholas Stone <stone.nicholas@gmail.com>"]
 version = "0.1.0"
+
+[deps]
+Counters = "5a653867-b65e-5b16-a095-b1e26d522bbf"
+FileIO = "5789e2e9-d7fb-5bc7-8068-2c6fae9b9549"
